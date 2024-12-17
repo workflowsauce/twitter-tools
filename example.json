@@ -1,0 +1,3035 @@
+{
+  "tweets": [
+      {
+          "tweet_created_at": "2024-08-27T14:14:28.000000Z",
+          "id": 1828435917746344287,
+          "id_str": "1828435917746344287",
+          "text": null,
+          "full_text": "In many Buddhist sects nibbana means to blow out, like a candle\n\nTo extinguish consciousness\n\nI reject this path.\n\nI’m aiming for μετάνοια, to go beyond my mind and achieve union with the divine\n\nI aim for θέωσις, to take my place in heaven as a Son of God",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 6,
+          "favorite_count": 129,
+          "views_count": 22895,
+          "bookmark_count": 22,
+          "lang": "und",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T14:04:12.000000Z",
+          "id": 1858873917017911458,
+          "id_str": "1858873917017911458",
+          "text": null,
+          "full_text": "What is your best idea for a mega-project in the real world that men could bond together by working on shoulder to shoulder, in a very physical way?",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0,
+          "favorite_count": 14,
+          "views_count": 611,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:37:33.000000Z",
+          "id": 1858988005811515731,
+          "id_str": "1858988005811515731",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ https://t.co/eu6LauSUPx",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858873917017911458,
+          "in_reply_to_status_id_str": "1858873917017911458",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 357262224,
+              "id_str": "357262224",
+              "name": "Max Nguyen-Ha ᵍᵐ",
+              "screen_name": "SenseiMilli",
+              "location": "Virginia, USA",
+              "url": null,
+              "description": "Vietnamese-American filmmaker | Dharma Practitioner | Occasionally Profound Simpleton | VCU’20 alumnus |",
+              "protected": false,
+              "verified": true,
+              "followers_count": 2404,
+              "friends_count": 4078,
+              "listed_count": 0,
+              "favourites_count": 63797,
+              "statuses_count": 31126,
+              "created_at": "2011-08-18T02:56:56.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/357262224/1727944246",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1681020513290956800/bW2i_8pJ_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 5,
+          "bookmark_count": 0,
+          "lang": "qme",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ],
+              "media": [
+                  {
+                      "allow_download_status": {
+                          "allow_download": true
+                      },
+                      "display_url": "pic.x.com/eu6LauSUPx",
+                      "expanded_url": "https://x.com/SenseiMilli/status/1858988005811515731/photo/1",
+                      "ext_media_availability": {
+                          "status": "Available"
+                      },
+                      "features": {
+                          "large": {
+                              "faces": []
+                          }
+                      },
+                      "id_str": "1858988001205850112",
+                      "indices": [
+                          17,
+                          40
+                      ],
+                      "media_key": "3_1858988001205850112",
+                      "media_url_https": "https://pbs.twimg.com/media/GcxzvN2WkAAo03j.jpg",
+                      "original_info": {
+                          "focus_rects": [
+                              {
+                                  "h": 599,
+                                  "w": 1070,
+                                  "x": 0,
+                                  "y": 89
+                              },
+                              {
+                                  "h": 1070,
+                                  "w": 1070,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1220,
+                                  "w": 1070,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1414,
+                                  "w": 707,
+                                  "x": 363,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1414,
+                                  "w": 1070,
+                                  "x": 0,
+                                  "y": 0
+                              }
+                          ],
+                          "height": 1414,
+                          "width": 1070
+                      },
+                      "sizes": {
+                          "large": {
+                              "h": 1414,
+                              "w": 1070
+                          }
+                      },
+                      "type": "photo",
+                      "url": "https://t.co/eu6LauSUPx"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:39:10.000000Z",
+          "id": 1858988410486354202,
+          "id_str": "1858988410486354202",
+          "text": null,
+          "full_text": "@SenseiMilli loev this. also those squirrels look gross",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858988005811515731,
+          "in_reply_to_status_id_str": "1858988005811515731",
+          "in_reply_to_user_id": 357262224,
+          "in_reply_to_user_id_str": "357262224",
+          "in_reply_to_screen_name": "SenseiMilli",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 3,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "357262224",
+                      "indices": [
+                          0,
+                          12
+                      ],
+                      "name": "Max Nguyen-Ha ᵍᵐ",
+                      "screen_name": "SenseiMilli"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T20:13:02.000000Z",
+          "id": 1858966736650776812,
+          "id_str": "1858966736650776812",
+          "text": null,
+          "full_text": "What superpowers does your particular brand of neurodivergence give you?",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1,
+          "favorite_count": 11,
+          "views_count": 450,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:34:11.000000Z",
+          "id": 1858987157924573294,
+          "id_str": "1858987157924573294",
+          "text": null,
+          "full_text": "Super quick first principles and analytical thinking probably, but in a way that is neurotically in sync with the innerworkings within my mind and scope of experience. I’ve found it helpful on the path to recognize my shortcomings, flaws, or obstacles to my growth whether it be relatively or in wisdom, worldly or spiritual.",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858966736650776812,
+          "in_reply_to_status_id_str": "1858966736650776812",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 357262224,
+              "id_str": "357262224",
+              "name": "Max Nguyen-Ha ᵍᵐ",
+              "screen_name": "SenseiMilli",
+              "location": "Virginia, USA",
+              "url": null,
+              "description": "Vietnamese-American filmmaker | Dharma Practitioner | Occasionally Profound Simpleton | VCU’20 alumnus |",
+              "protected": false,
+              "verified": true,
+              "followers_count": 2404,
+              "friends_count": 4078,
+              "listed_count": 0,
+              "favourites_count": 63797,
+              "statuses_count": 31126,
+              "created_at": "2011-08-18T02:56:56.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/357262224/1727944246",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1681020513290956800/bW2i_8pJ_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 16,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:38:03.000000Z",
+          "id": 1858988130709500398,
+          "id_str": "1858988130709500398",
+          "text": null,
+          "full_text": "@SenseiMilli fun! recognizing your own shortcomings can be tough but very powerful indeed",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858987157924573294,
+          "in_reply_to_status_id_str": "1858987157924573294",
+          "in_reply_to_user_id": 357262224,
+          "in_reply_to_user_id_str": "357262224",
+          "in_reply_to_screen_name": "SenseiMilli",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 6,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "357262224",
+                      "indices": [
+                          0,
+                          12
+                      ],
+                      "name": "Max Nguyen-Ha ᵍᵐ",
+                      "screen_name": "SenseiMilli"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:36:10.000000Z",
+          "id": 1858987657273241922,
+          "id_str": "1858987657273241922",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ Humor and the ability to briefly perform at an extremely high level at totally unpredictable times. That’s just off the top of my head. How about you?",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858966736650776812,
+          "in_reply_to_status_id_str": "1858966736650776812",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1566069859204665345,
+              "id_str": "1566069859204665345",
+              "name": "Bomb Tombadil",
+              "screen_name": "Tbombadill0",
+              "location": "",
+              "url": "http://edgesoffaerie.substack.com",
+              "description": "Romantic Christian — Home Church — 4th Gospel Supremacist — Book of Mormon Enthusiast — Tao Te Ching Cultist — I write stories here 👇",
+              "protected": false,
+              "verified": false,
+              "followers_count": 1535,
+              "friends_count": 375,
+              "listed_count": 0,
+              "favourites_count": 24612,
+              "statuses_count": 15258,
+              "created_at": "2022-09-03T14:25:49.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566069859204665345/1705032016",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1745657241280122880/JDne26-6_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "views_count": 19,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:37:38.000000Z",
+          "id": 1858988028007772329,
+          "id_str": "1858988028007772329",
+          "text": null,
+          "full_text": "@Tbombadill0 Unpredictable times?!??! woah\n\nI'd say extreme empathy and understanding of vibes. I am hypermobile as well so I can do weird things with my body on the dance floor hah\n\nThose are prolly the main ones for now. I'd have to think about it more",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858987657273241922,
+          "in_reply_to_status_id_str": "1858987657273241922",
+          "in_reply_to_user_id": 1566069859204665345,
+          "in_reply_to_user_id_str": "1566069859204665345",
+          "in_reply_to_screen_name": "Tbombadill0",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 18,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1566069859204665345",
+                      "indices": [
+                          0,
+                          12
+                      ],
+                      "name": "Bomb Tombadil",
+                      "screen_name": "Tbombadill0"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T20:04:13.000000Z",
+          "id": 1858964516718989466,
+          "id_str": "1858964516718989466",
+          "text": null,
+          "full_text": "Gotta say I get really turned off when people refer to God as Her\n\nPerhaps that’s petty or sexist of me but it just feels wrong somehow",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0,
+          "favorite_count": 29,
+          "views_count": 948,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:33:47.000000Z",
+          "id": 1858987056552440189,
+          "id_str": "1858987056552440189",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ Hinduism had the trinity.... Ummmmm. 10,000 years????? before greeks and romans where arguing about jesus and his divinity.....",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858964516718989466,
+          "in_reply_to_status_id_str": "1858964516718989466",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1812246413742592000,
+              "id_str": "1812246413742592000",
+              "name": "gentlemen, we need to chat, heal stuff",
+              "screen_name": "benbenjaminoz",
+              "location": "Brisbane, Queensland",
+              "url": null,
+              "description": "Recently proven inncorrect again by my offspring.\n\nReverting to 'agora' education from now on.",
+              "protected": false,
+              "verified": false,
+              "followers_count": 151,
+              "friends_count": 93,
+              "listed_count": 0,
+              "favourites_count": 6494,
+              "statuses_count": 6244,
+              "created_at": "2024-07-13T22:03:29.000000Z",
+              "profile_banner_url": null,
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1835109945454514176/uGDHltTs_normal.jpg",
+              "can_dm": false
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "views_count": 21,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:34:30.000000Z",
+          "id": 1858987239579283698,
+          "id_str": "1858987239579283698",
+          "text": null,
+          "full_text": "@benbenjaminoz it's called the Trimurti and not the same thing, also 10k years we don't really know what the Vedic scriptures were like ahaha\n\nregardless temporal history doesn't matter a ton from a christian perspective",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858987056552440189,
+          "in_reply_to_status_id_str": "1858987056552440189",
+          "in_reply_to_user_id": 1812246413742592000,
+          "in_reply_to_user_id_str": "1812246413742592000",
+          "in_reply_to_screen_name": "benbenjaminoz",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "views_count": 14,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1812246413742592000",
+                      "indices": [
+                          0,
+                          14
+                      ],
+                      "name": "gentlemen, we need to chat, heal stuff",
+                      "screen_name": "benbenjaminoz"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:33:31.000000Z",
+          "id": 1858986992438308891,
+          "id_str": "1858986992438308891",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ I think a lot of people say “Her” to sound different, but they’re just New Agers who don’t know anything. \n\nWhereas, if someone is saying “Her” because they accept a theology where that’s the norm, I think it’s usually pretty obvious.",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858964516718989466,
+          "in_reply_to_status_id_str": "1858964516718989466",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1799227391296016384,
+              "id_str": "1799227391296016384",
+              "name": "syamaloka",
+              "screen_name": "syamaloka",
+              "location": "",
+              "url": null,
+              "description": "卐 vaiṣṇava",
+              "protected": false,
+              "verified": false,
+              "followers_count": 116,
+              "friends_count": 57,
+              "listed_count": 0,
+              "favourites_count": 4579,
+              "statuses_count": 1662,
+              "created_at": "2024-06-07T23:50:29.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799227391296016384/1724895300",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1858595259997188097/GEULfLiR_normal.jpg",
+              "can_dm": false
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 24,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:33:58.000000Z",
+          "id": 1858987103675445451,
+          "id_str": "1858987103675445451",
+          "text": null,
+          "full_text": "@syamaloka idk James Finley seems like he knows some stuff. I'd be curious to ask him about it",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858986992438308891,
+          "in_reply_to_status_id_str": "1858986992438308891",
+          "in_reply_to_user_id": 1799227391296016384,
+          "in_reply_to_user_id_str": "1799227391296016384",
+          "in_reply_to_screen_name": "syamaloka",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 19,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1799227391296016384",
+                      "indices": [
+                          0,
+                          10
+                      ],
+                      "name": "syamaloka",
+                      "screen_name": "syamaloka"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T15:31:08.000000Z",
+          "id": 1858895795791048712,
+          "id_str": "1858895795791048712",
+          "text": null,
+          "full_text": "a lot of poly people defend their behavior by saying they uncouple sex from emotions, especially jealousy and such\n\nI'd contend that if that's even possible, you're still stripping sex of much of what makes it special by removing the emotional component",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1,
+          "favorite_count": 32,
+          "views_count": 668,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:31:57.000000Z",
+          "id": 1858986594910568903,
+          "id_str": "1858986594910568903",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ Gonna unfollow u because I don’t like seeing anti-poly posting and comments in my feed, hope you will consider trying to understand others who are different from you more vs just dismissing others",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858895795791048712,
+          "in_reply_to_status_id_str": "1858895795791048712",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1791155095096467456,
+              "id_str": "1791155095096467456",
+              "name": "Pandora",
+              "screen_name": "Pandora_Delaney",
+              "location": "",
+              "url": null,
+              "description": "New here but making myself at home on the digital playground.\n\nSex, love, polyamory, and whatever catches my fancy.",
+              "protected": false,
+              "verified": false,
+              "followers_count": 529,
+              "friends_count": 120,
+              "listed_count": 0,
+              "favourites_count": 2051,
+              "statuses_count": 746,
+              "created_at": "2024-05-16T17:14:09.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791155095096467456/1727817190",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1791169405763846148/ZxdjaHZW_normal.jpg",
+              "can_dm": false
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 6,
+          "views_count": 54,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:32:51.000000Z",
+          "id": 1858986821415546906,
+          "id_str": "1858986821415546906",
+          "text": null,
+          "full_text": "@Pandora_Delaney ty for the heads up! yeah I am indeed quite harsh\n\nI'm coming from a Christian perspective so perhaps I should try to do it more with love. I have gotten hurt in the past from poly stuff though so it's a tough area for me\n\nEither way, totally understand",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858986594910568903,
+          "in_reply_to_status_id_str": "1858986594910568903",
+          "in_reply_to_user_id": 1791155095096467456,
+          "in_reply_to_user_id_str": "1791155095096467456",
+          "in_reply_to_screen_name": "Pandora_Delaney",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "views_count": 24,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1791155095096467456",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Pandora",
+                      "screen_name": "Pandora_Delaney"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:30:25.000000Z",
+          "id": 1858986212088049720,
+          "id_str": "1858986212088049720",
+          "text": null,
+          "full_text": "if anybody is curious, next Starship launch is about to happen!!!! check it out!!!",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": "1857622520154960080",
+          "is_quote_status": true,
+          "quoted_status": {
+              "tweet_created_at": "2024-11-16T03:11:36.000000Z",
+              "id": 1857622520154960080,
+              "id_str": "1857622520154960080",
+              "text": null,
+              "full_text": "Watch Starship's sixth flight test https://t.co/acpdO2brbP",
+              "source": "",
+              "truncated": false,
+              "in_reply_to_status_id": null,
+              "in_reply_to_status_id_str": null,
+              "in_reply_to_user_id": null,
+              "in_reply_to_user_id_str": null,
+              "in_reply_to_screen_name": null,
+              "user": {
+                  "id": 34743251,
+                  "id_str": "34743251",
+                  "name": "SpaceX",
+                  "screen_name": "SpaceX",
+                  "location": "Earth",
+                  "url": "http://spacex.com",
+                  "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+                  "protected": false,
+                  "verified": true,
+                  "followers_count": 36717212,
+                  "friends_count": 120,
+                  "listed_count": 0,
+                  "favourites_count": 515,
+                  "statuses_count": 9461,
+                  "created_at": "2009-04-23T21:53:30.000000Z",
+                  "profile_banner_url": "https://pbs.twimg.com/profile_banners/34743251/1681251194",
+                  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_normal.jpg",
+                  "can_dm": false
+              },
+              "quoted_status_id": null,
+              "quoted_status_id_str": null,
+              "is_quote_status": false,
+              "quoted_status": null,
+              "retweeted_status": null,
+              "quote_count": 210,
+              "reply_count": 396,
+              "retweet_count": 1362,
+              "favorite_count": 5317,
+              "views_count": 64739,
+              "bookmark_count": 486,
+              "lang": "en",
+              "entities": {
+                  "hashtags": [],
+                  "symbols": [],
+                  "timestamps": [],
+                  "urls": [
+                      {
+                          "display_url": "x.com/i/broadcasts/1…",
+                          "expanded_url": "https://x.com/i/broadcasts/1RDGlydZAeOJL",
+                          "indices": [
+                              35,
+                              58
+                          ],
+                          "url": "https://t.co/acpdO2brbP"
+                      }
+                  ],
+                  "user_mentions": []
+              },
+              "is_pinned": false
+          },
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "views_count": 107,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:25:58.000000Z",
+          "id": 1858985090195616159,
+          "id_str": "1858985090195616159",
+          "text": null,
+          "full_text": "well we landed 😆",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 2577711,
+              "id_str": "2577711",
+              "name": "Egregore Hansellic ☀️/acc",
+              "screen_name": "GregoryHansell",
+              "location": "Omega Point",
+              "url": null,
+              "description": "Belief: Evolutionary Spirituality = Love + Complexity + Play | Leader | Techie | Husband/Dad | 🌈 ally | “Only that which can change can continue” - Carse",
+              "protected": false,
+              "verified": true,
+              "followers_count": 2476,
+              "friends_count": 966,
+              "listed_count": 0,
+              "favourites_count": 168582,
+              "statuses_count": 23151,
+              "created_at": "2007-03-28T00:00:26.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/2577711/1729844466",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1851819961754279936/rsM_tqda_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "views_count": 66,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:30:13.000000Z",
+          "id": 1858986161274053099,
+          "id_str": "1858986161274053099",
+          "text": null,
+          "full_text": "@GregoryHansell thought you were talking about spacex for a sec",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858985090195616159,
+          "in_reply_to_status_id_str": "1858985090195616159",
+          "in_reply_to_user_id": 2577711,
+          "in_reply_to_user_id_str": "2577711",
+          "in_reply_to_screen_name": "GregoryHansell",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "views_count": 16,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "2577711",
+                      "indices": [
+                          0,
+                          15
+                      ],
+                      "name": "Egregore Hansellic ☀️/acc",
+                      "screen_name": "GregoryHansell"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:08:40.000000Z",
+          "id": 1858980736239628688,
+          "id_str": "1858980736239628688",
+          "text": null,
+          "full_text": "how are there 0 good physical therapists",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 585462708,
+              "id_str": "585462708",
+              "name": "christian",
+              "screen_name": "cxgonzalez",
+              "location": "Barcelona",
+              "url": null,
+              "description": "eudaimonia-maxing, philosophy, co-founder @EventHorizonDAO",
+              "protected": false,
+              "verified": true,
+              "followers_count": 5137,
+              "friends_count": 646,
+              "listed_count": 0,
+              "favourites_count": 74183,
+              "statuses_count": 36156,
+              "created_at": "2012-05-20T05:14:16.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/585462708/1686676743",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1667278368952156163/RajOL98p_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "views_count": 271,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:29:21.000000Z",
+          "id": 1858985940460728368,
+          "id_str": "1858985940460728368",
+          "text": null,
+          "full_text": "@cxgonzalez because all the good ones are into weird energetic/somatic stuff ahahah",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858980736239628688,
+          "in_reply_to_status_id_str": "1858980736239628688",
+          "in_reply_to_user_id": 585462708,
+          "in_reply_to_user_id_str": "585462708",
+          "in_reply_to_screen_name": "cxgonzalez",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 15,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "585462708",
+                      "indices": [
+                          0,
+                          11
+                      ],
+                      "name": "christian",
+                      "screen_name": "cxgonzalez"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:29:06.000000Z",
+          "id": 1858985879253188705,
+          "id_str": "1858985879253188705",
+          "text": null,
+          "full_text": "when I see someone's pfp on here and see deep sadness in their eyes, it really makes me hurt for them\n\nI hope you all can be loved",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "views_count": 87,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:26:52.000000Z",
+          "id": 1858985316776112446,
+          "id_str": "1858985316776112446",
+          "text": null,
+          "full_text": "@ManaMoonMama @violetvariant @Thomasdelvasto_ And hive up on the whole monotheism thing?",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858976557920120855,
+          "in_reply_to_status_id_str": "1858976557920120855",
+          "in_reply_to_user_id": 1570307734859354114,
+          "in_reply_to_user_id_str": "1570307734859354114",
+          "in_reply_to_screen_name": "ManaMoonMama",
+          "user": {
+              "id": 3172483385,
+              "id_str": "3172483385",
+              "name": "Daniel Böttger 😃",
+              "screen_name": "7SecularSermons",
+              "location": "Leipzig, Germany",
+              "url": "http://sevensecularsermons.org",
+              "description": "I write grand formal poetry, in meter & in rhyme, on science & infinity, when I can make the time. Three kids and working in IT. I tweet short rhymes sometimes.",
+              "protected": false,
+              "verified": true,
+              "followers_count": 592,
+              "friends_count": 138,
+              "listed_count": 0,
+              "favourites_count": 13366,
+              "statuses_count": 4980,
+              "created_at": "2015-04-16T11:38:42.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3172483385/1429210020",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1576483754004160516/dSlIMZcz_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 11,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1570307734859354114",
+                      "indices": [
+                          0,
+                          13
+                      ],
+                      "name": "prana Mana",
+                      "screen_name": "ManaMoonMama"
+                  },
+                  {
+                      "id_str": "1384458605764689921",
+                      "indices": [
+                          14,
+                          28
+                      ],
+                      "name": "ultraviolet",
+                      "screen_name": "violetvariant"
+                  },
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          29,
+                          45
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:28:27.000000Z",
+          "id": 1858985713494356111,
+          "id_str": "1858985713494356111",
+          "text": null,
+          "full_text": "@7SecularSermons @ManaMoonMama @violetvariant Bro there’s already a Holy Trinity lol. It’s actually more accurate \n\nYou seem smart but you also seem kind of dismissive of Christianity without knowing a lot about it based on your replies my dude",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858985316776112446,
+          "in_reply_to_status_id_str": "1858985316776112446",
+          "in_reply_to_user_id": 3172483385,
+          "in_reply_to_user_id_str": "3172483385",
+          "in_reply_to_screen_name": "7SecularSermons",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 16,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "3172483385",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Daniel Böttger 😃",
+                      "screen_name": "7SecularSermons"
+                  },
+                  {
+                      "id_str": "1570307734859354114",
+                      "indices": [
+                          17,
+                          30
+                      ],
+                      "name": "prana Mana",
+                      "screen_name": "ManaMoonMama"
+                  },
+                  {
+                      "id_str": "1384458605764689921",
+                      "indices": [
+                          31,
+                          45
+                      ],
+                      "name": "ultraviolet",
+                      "screen_name": "violetvariant"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T14:19:49.000000Z",
+          "id": 1858877846174785925,
+          "id_str": "1858877846174785925",
+          "text": null,
+          "full_text": "which billionaires will help us fund projects to build cathedrals in the U.S. and bring some beauty back into our lives? https://t.co/97CHZ94HAE",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0,
+          "favorite_count": 20,
+          "views_count": 1005,
+          "bookmark_count": 3,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [],
+              "media": [
+                  {
+                      "allow_download_status": {
+                          "allow_download": true
+                      },
+                      "display_url": "pic.x.com/97CHZ94HAE",
+                      "expanded_url": "https://x.com/Thomasdelvasto_/status/1858877846174785925/photo/1",
+                      "ext_media_availability": {
+                          "status": "Available"
+                      },
+                      "features": {
+                          "large": {
+                              "faces": []
+                          }
+                      },
+                      "id_str": "1858877839824535553",
+                      "indices": [
+                          121,
+                          144
+                      ],
+                      "media_key": "3_1858877839824535553",
+                      "media_url_https": "https://pbs.twimg.com/media/GcwPi-uWQAEx4S-.png",
+                      "original_info": {
+                          "focus_rects": [
+                              {
+                                  "h": 265,
+                                  "w": 474,
+                                  "x": 0,
+                                  "y": 327
+                              },
+                              {
+                                  "h": 474,
+                                  "w": 474,
+                                  "x": 0,
+                                  "y": 118
+                              },
+                              {
+                                  "h": 540,
+                                  "w": 474,
+                                  "x": 0,
+                                  "y": 52
+                              },
+                              {
+                                  "h": 592,
+                                  "w": 296,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 592,
+                                  "w": 474,
+                                  "x": 0,
+                                  "y": 0
+                              }
+                          ],
+                          "height": 592,
+                          "width": 474
+                      },
+                      "sizes": {
+                          "large": {
+                              "h": 592,
+                              "w": 474
+                          }
+                      },
+                      "type": "photo",
+                      "url": "https://t.co/97CHZ94HAE"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:26:38.000000Z",
+          "id": 1858985256428466243,
+          "id_str": "1858985256428466243",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ I know that's why politics will soon be dust.",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858888651419115677,
+          "in_reply_to_status_id_str": "1858888651419115677",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1472281187854925829,
+              "id_str": "1472281187854925829",
+              "name": "The Void",
+              "screen_name": "VoidCallsNow",
+              "location": "Earth",
+              "url": "https://ko-fi.com/thevoidcalls",
+              "description": "I am the clear, indomitable light of the void. I am not what most people think I am. I walked through darkness and am finding myself again.",
+              "protected": false,
+              "verified": false,
+              "followers_count": 1725,
+              "friends_count": 1583,
+              "listed_count": 0,
+              "favourites_count": 88435,
+              "statuses_count": 21724,
+              "created_at": "2021-12-18T19:03:05.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1472281187854925829/1727993754",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1854915841529180160/M1oJDGhj_normal.jpg",
+              "can_dm": false
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 8,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:27:45.000000Z",
+          "id": 1858985538558296229,
+          "id_str": "1858985538558296229",
+          "text": null,
+          "full_text": "@VoidCallsNow Woah what do you mind by that??",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858985256428466243,
+          "in_reply_to_status_id_str": "1858985256428466243",
+          "in_reply_to_user_id": 1472281187854925829,
+          "in_reply_to_user_id_str": "1472281187854925829",
+          "in_reply_to_screen_name": "VoidCallsNow",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 3,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1472281187854925829",
+                      "indices": [
+                          0,
+                          13
+                      ],
+                      "name": "The Void",
+                      "screen_name": "VoidCallsNow"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:23:56.000000Z",
+          "id": 1858984578461167875,
+          "id_str": "1858984578461167875",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ It's a matter of perspective. I don't like how it sounds when people who have an ideological agenda or believe the gods are allegorical or archetypical use it. But when true believers of the cosmic mother use it it seems just fine. https://t.co/jxOSyCPhim",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858964516718989466,
+          "in_reply_to_status_id_str": "1858964516718989466",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1740335072228573184,
+              "id_str": "1740335072228573184",
+              "name": "Deminán",
+              "screen_name": "DhyanaEnjoyer",
+              "location": "Borikén ",
+              "url": null,
+              "description": "• Part-Time Hermit • Full-Time Seeker •",
+              "protected": false,
+              "verified": false,
+              "followers_count": 1979,
+              "friends_count": 1842,
+              "listed_count": 0,
+              "favourites_count": 16013,
+              "statuses_count": 4478,
+              "created_at": "2023-12-28T11:33:32.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740335072228573184/1729636654",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1857010636405751808/ou_gdINr_normal.jpg",
+              "can_dm": false
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 5,
+          "views_count": 55,
+          "bookmark_count": 1,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ],
+              "media": [
+                  {
+                      "display_url": "pic.x.com/jxOSyCPhim",
+                      "expanded_url": "https://x.com/DhyanaEnjoyer/status/1858984578461167875/photo/1",
+                      "ext_media_availability": {
+                          "status": "Available"
+                      },
+                      "features": {
+                          "large": {
+                              "faces": [
+                                  {
+                                      "h": 55,
+                                      "w": 55,
+                                      "x": 560,
+                                      "y": 507
+                                  },
+                                  {
+                                      "h": 67,
+                                      "w": 67,
+                                      "x": 336,
+                                      "y": 233
+                                  }
+                              ]
+                          }
+                      },
+                      "id_str": "1858984576229535744",
+                      "indices": [
+                          249,
+                          272
+                      ],
+                      "media_key": "3_1858984576229535744",
+                      "media_url_https": "https://pbs.twimg.com/media/Gcxwn20XcAAgY5h.jpg",
+                      "original_info": {
+                          "focus_rects": [
+                              {
+                                  "h": 412,
+                                  "w": 736,
+                                  "x": 0,
+                                  "y": 49
+                              },
+                              {
+                                  "h": 736,
+                                  "w": 736,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 839,
+                                  "w": 736,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1137,
+                                  "w": 569,
+                                  "x": 85,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1137,
+                                  "w": 736,
+                                  "x": 0,
+                                  "y": 0
+                              }
+                          ],
+                          "height": 1137,
+                          "width": 736
+                      },
+                      "sizes": {
+                          "large": {
+                              "h": 1137,
+                              "w": 736
+                          }
+                      },
+                      "type": "photo",
+                      "url": "https://t.co/jxOSyCPhim"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:24:33.000000Z",
+          "id": 1858984733008654364,
+          "id_str": "1858984733008654364",
+          "text": null,
+          "full_text": "@DhyanaEnjoyer yeah I should've clarified, mainly bothers me when Christians do it",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858984578461167875,
+          "in_reply_to_status_id_str": "1858984578461167875",
+          "in_reply_to_user_id": 1740335072228573184,
+          "in_reply_to_user_id_str": "1740335072228573184",
+          "in_reply_to_screen_name": "DhyanaEnjoyer",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "favorite_count": 4,
+          "views_count": 26,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1740335072228573184",
+                      "indices": [
+                          0,
+                          14
+                      ],
+                      "name": "Deminán",
+                      "screen_name": "DhyanaEnjoyer"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:14:15.000000Z",
+          "id": 1858982141612486803,
+          "id_str": "1858982141612486803",
+          "text": null,
+          "full_text": "starting to wonder if demons taught Newton about gravity....",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1,
+          "favorite_count": 6,
+          "views_count": 127,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": []
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:22:08.000000Z",
+          "id": 1858984127627980935,
+          "id_str": "1858984127627980935",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ tbh i'm procrastinating. but now i'm getting back to work. glad you liked it 😄",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858983703122505816,
+          "in_reply_to_status_id_str": "1858983703122505816",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1494353244293718020,
+              "id_str": "1494353244293718020",
+              "name": "OREN - kitty roaring into the void",
+              "screen_name": "alchemist_digi",
+              "location": "the Vortex ⚫️ ψ",
+              "url": "https://youtu.be/dd2zaHVvpuM",
+              "description": "Observer. \nExplorer. \nGuide. \n🫖\n\nNARM Counselor 🪷\nCosmic Cat 🐈‍⬛\nLow-key Loki 🗝️\n\n~Master of Paradox~\n\nFriend of the tree peoples 🌲",
+              "protected": false,
+              "verified": false,
+              "followers_count": 1232,
+              "friends_count": 369,
+              "listed_count": 0,
+              "favourites_count": 12522,
+              "statuses_count": 9435,
+              "created_at": "2022-02-17T16:49:21.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494353244293718020/1675010580",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1619411903939502080/y9MX7N3E_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 16,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:22:25.000000Z",
+          "id": 1858984197651918974,
+          "id_str": "1858984197651918974",
+          "text": null,
+          "full_text": "@alchemist_digi I always appreciate when ppl draw AI images for me. It's nice!!!",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858984127627980935,
+          "in_reply_to_status_id_str": "1858984127627980935",
+          "in_reply_to_user_id": 1494353244293718020,
+          "in_reply_to_user_id_str": "1494353244293718020",
+          "in_reply_to_screen_name": "alchemist_digi",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0,
+          "favorite_count": 0,
+          "views_count": 6,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1494353244293718020",
+                      "indices": [
+                          0,
+                          15
+                      ],
+                      "name": "OREN - kitty roaring into the void",
+                      "screen_name": "alchemist_digi"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:20:08.000000Z",
+          "id": 1858983620398247983,
+          "id_str": "1858983620398247983",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ https://t.co/kjAORrfH8h",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858982141612486803,
+          "in_reply_to_status_id_str": "1858982141612486803",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1494353244293718020,
+              "id_str": "1494353244293718020",
+              "name": "OREN - kitty roaring into the void",
+              "screen_name": "alchemist_digi",
+              "location": "the Vortex ⚫️ ψ",
+              "url": "https://youtu.be/dd2zaHVvpuM",
+              "description": "Observer. \nExplorer. \nGuide. \n🫖\n\nNARM Counselor 🪷\nCosmic Cat 🐈‍⬛\nLow-key Loki 🗝️\n\n~Master of Paradox~\n\nFriend of the tree peoples 🌲",
+              "protected": false,
+              "verified": false,
+              "followers_count": 1232,
+              "friends_count": 369,
+              "listed_count": 0,
+              "favourites_count": 12522,
+              "statuses_count": 9435,
+              "created_at": "2022-02-17T16:49:21.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1494353244293718020/1675010580",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1619411903939502080/y9MX7N3E_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 10,
+          "bookmark_count": 0,
+          "lang": "qme",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ],
+              "media": [
+                  {
+                      "allow_download_status": {
+                          "allow_download": true
+                      },
+                      "display_url": "pic.x.com/kjAORrfH8h",
+                      "expanded_url": "https://x.com/alchemist_digi/status/1858983620398247983/photo/1",
+                      "ext_media_availability": {
+                          "status": "Available"
+                      },
+                      "features": {
+                          "large": {
+                              "faces": [
+                                  {
+                                      "h": 66,
+                                      "w": 66,
+                                      "x": 730,
+                                      "y": 372
+                                  }
+                              ]
+                          }
+                      },
+                      "id_str": "1858983605407805442",
+                      "indices": [
+                          17,
+                          40
+                      ],
+                      "media_key": "3_1858983605407805442",
+                      "media_url_https": "https://pbs.twimg.com/media/GcxvvWObcAIw06E.jpg",
+                      "original_info": {
+                          "focus_rects": [
+                              {
+                                  "h": 573,
+                                  "w": 1024,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1024,
+                                  "w": 1024,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1024,
+                                  "w": 898,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1024,
+                                  "w": 512,
+                                  "x": 0,
+                                  "y": 0
+                              },
+                              {
+                                  "h": 1024,
+                                  "w": 1024,
+                                  "x": 0,
+                                  "y": 0
+                              }
+                          ],
+                          "height": 1024,
+                          "width": 1024
+                      },
+                      "sizes": {
+                          "large": {
+                              "h": 1024,
+                              "w": 1024
+                          }
+                      },
+                      "type": "photo",
+                      "url": "https://t.co/kjAORrfH8h"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:20:27.000000Z",
+          "id": 1858983703122505816,
+          "id_str": "1858983703122505816",
+          "text": null,
+          "full_text": "@alchemist_digi oooh now that is an image!!!! dayum. love it",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858983620398247983,
+          "in_reply_to_status_id_str": "1858983620398247983",
+          "in_reply_to_user_id": 1494353244293718020,
+          "in_reply_to_user_id_str": "1494353244293718020",
+          "in_reply_to_screen_name": "alchemist_digi",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 16,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1494353244293718020",
+                      "indices": [
+                          0,
+                          15
+                      ],
+                      "name": "OREN - kitty roaring into the void",
+                      "screen_name": "alchemist_digi"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:19:36.000000Z",
+          "id": 1858983489363992806,
+          "id_str": "1858983489363992806",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ Oh, goodness. That is a long convo.\nBut, short form. Druidic practice is the veneration of Nature as God.\nOdinic practice is, at least my interpretation, is the attempt to bridge the Apollonian and the Dionysian aspects of God.",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858982680454721972,
+          "in_reply_to_status_id_str": "1858982680454721972",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 914696599695187969,
+              "id_str": "914696599695187969",
+              "name": "Brother Sanchez",
+              "screen_name": "breaking2morrow",
+              "location": "Head of Cogsec, Egrego Ltd",
+              "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin",
+              "description": "Absurdist, Minister, Deist. Keeper of Secrets. Always winning. SAR, WTR. \"a stabilizing presence\"",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1796,
+              "friends_count": 417,
+              "listed_count": 0,
+              "favourites_count": 370271,
+              "statuses_count": 110924,
+              "created_at": "2017-10-02T03:40:38.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/914696599695187969/1704410362",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1637865953772937217/Ds2i-DCI_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "views_count": 12,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:20:14.000000Z",
+          "id": 1858983648621719738,
+          "id_str": "1858983648621719738",
+          "text": null,
+          "full_text": "@breaking2morrow Odin is the bridge, fascinating. Man paganism is weird lol I can't make heads nor tails of it sorry",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858983489363992806,
+          "in_reply_to_status_id_str": "1858983489363992806",
+          "in_reply_to_user_id": 914696599695187969,
+          "in_reply_to_user_id_str": "914696599695187969",
+          "in_reply_to_screen_name": "breaking2morrow",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 69,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "914696599695187969",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Brother Sanchez",
+                      "screen_name": "breaking2morrow"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:15:56.000000Z",
+          "id": 1858982565761478863,
+          "id_str": "1858982565761478863",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ &lt; Odinic, not a Druidic.\nI used to hug trees, but then I realized the trees were fine with me being fertilizer.",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858982220104692018,
+          "in_reply_to_status_id_str": "1858982220104692018",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 914696599695187969,
+              "id_str": "914696599695187969",
+              "name": "Brother Sanchez",
+              "screen_name": "breaking2morrow",
+              "location": "Head of Cogsec, Egrego Ltd",
+              "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin",
+              "description": "Absurdist, Minister, Deist. Keeper of Secrets. Always winning. SAR, WTR. \"a stabilizing presence\"",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1796,
+              "friends_count": 417,
+              "listed_count": 0,
+              "favourites_count": 370271,
+              "statuses_count": 110924,
+              "created_at": "2017-10-02T03:40:38.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/914696599695187969/1704410362",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1637865953772937217/Ds2i-DCI_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 14,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:16:23.000000Z",
+          "id": 1858982680454721972,
+          "id_str": "1858982680454721972",
+          "text": null,
+          "full_text": "@breaking2morrow What is the difference?",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858982565761478863,
+          "in_reply_to_status_id_str": "1858982565761478863",
+          "in_reply_to_user_id": 914696599695187969,
+          "in_reply_to_user_id_str": "914696599695187969",
+          "in_reply_to_screen_name": "breaking2morrow",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "views_count": 12,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "914696599695187969",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Brother Sanchez",
+                      "screen_name": "breaking2morrow"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:14:15.000000Z",
+          "id": 1858982141511823386,
+          "id_str": "1858982141511823386",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ Patterns, actions, vibes. Self-consciousness. For me it comes down to utilizing an overactive mind to study myself in relation to others. Using every significant experience as an opportunity to learn about myself instead of repressing mistakes.",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858979849467310521,
+          "in_reply_to_status_id_str": "1858979849467310521",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 1848434250862764032,
+              "id_str": "1848434250862764032",
+              "name": "Sublimity",
+              "screen_name": "Sublimityvision",
+              "location": "",
+              "url": "http://substack.com/@deliriumsublimity",
+              "description": "Psychoanalysis, anti-medication and psychiatry \nhttp://substack.com/@deliriumsublimity",
+              "protected": false,
+              "verified": false,
+              "followers_count": 38,
+              "friends_count": 28,
+              "listed_count": 0,
+              "favourites_count": 543,
+              "statuses_count": 253,
+              "created_at": "2024-10-21T18:41:04.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1848434250862764032/1731167254",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1848434757383626752/AiUjNxVg_normal.jpg",
+              "can_dm": false
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 2,
+          "views_count": 25,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:14:49.000000Z",
+          "id": 1858982283719651530,
+          "id_str": "1858982283719651530",
+          "text": null,
+          "full_text": "@Sublimityvision ahh yes. sounds very left brained\n\nhow do you feel about intuition?",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858982141511823386,
+          "in_reply_to_status_id_str": "1858982141511823386",
+          "in_reply_to_user_id": 1848434250862764032,
+          "in_reply_to_user_id_str": "1848434250862764032",
+          "in_reply_to_screen_name": "Sublimityvision",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 2,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1848434250862764032",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Sublimity",
+                      "screen_name": "Sublimityvision"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:13:53.000000Z",
+          "id": 1858982049195114698,
+          "id_str": "1858982049195114698",
+          "text": null,
+          "full_text": "@Thomasdelvasto_ More biomechanics than robotics, ngl",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858981791425860072,
+          "in_reply_to_status_id_str": "1858981791425860072",
+          "in_reply_to_user_id": 1808133424881819648,
+          "in_reply_to_user_id_str": "1808133424881819648",
+          "in_reply_to_screen_name": "Thomasdelvasto_",
+          "user": {
+              "id": 914696599695187969,
+              "id_str": "914696599695187969",
+              "name": "Brother Sanchez",
+              "screen_name": "breaking2morrow",
+              "location": "Head of Cogsec, Egrego Ltd",
+              "url": "https://en.wikipedia.org/wiki/List_of_names_of_Odin",
+              "description": "Absurdist, Minister, Deist. Keeper of Secrets. Always winning. SAR, WTR. \"a stabilizing presence\"",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1796,
+              "friends_count": 417,
+              "listed_count": 0,
+              "favourites_count": 370271,
+              "statuses_count": 110924,
+              "created_at": "2017-10-02T03:40:38.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/914696599695187969/1704410362",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1637865953772937217/Ds2i-DCI_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 3,
+          "views_count": 19,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "1808133424881819648",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Θωμᾶς del Vasto",
+                      "screen_name": "Thomasdelvasto_"
+                  }
+              ]
+          },
+          "is_pinned": false
+      },
+      {
+          "tweet_created_at": "2024-11-19T21:14:34.000000Z",
+          "id": 1858982220104692018,
+          "id_str": "1858982220104692018",
+          "text": null,
+          "full_text": "@breaking2morrow yeah still I guess with your whole druid thing I thought you'd say it more poetically ahahah",
+          "source": "",
+          "truncated": false,
+          "in_reply_to_status_id": 1858982049195114698,
+          "in_reply_to_status_id_str": "1858982049195114698",
+          "in_reply_to_user_id": 914696599695187969,
+          "in_reply_to_user_id_str": "914696599695187969",
+          "in_reply_to_screen_name": "breaking2morrow",
+          "user": {
+              "id": 1808133424881819648,
+              "id_str": "1808133424881819648",
+              "name": "Θωμᾶς del Vasto",
+              "screen_name": "Thomasdelvasto_",
+              "location": "The Ladder of Divine Ascent",
+              "url": "https://linktr.ee/thomasdelvasto",
+              "description": "shitpoaster extraordinaire 👀 Enlightened King of tpot 👑 Seeker of cheese and absolution via divine love ❤️‍🔥",
+              "protected": false,
+              "verified": true,
+              "followers_count": 1743,
+              "friends_count": 614,
+              "listed_count": 0,
+              "favourites_count": 51130,
+              "statuses_count": 19577,
+              "created_at": "2024-07-02T13:39:47.000000Z",
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1808133424881819648/1719928001",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1832810132159287296/oxSQCIie_normal.jpg",
+              "can_dm": true
+          },
+          "quoted_status_id": null,
+          "quoted_status_id_str": null,
+          "is_quote_status": false,
+          "quoted_status": null,
+          "retweeted_status": null,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0,
+          "favorite_count": 1,
+          "views_count": 7,
+          "bookmark_count": 0,
+          "lang": "en",
+          "entities": {
+              "hashtags": [],
+              "symbols": [],
+              "timestamps": [],
+              "urls": [],
+              "user_mentions": [
+                  {
+                      "id_str": "914696599695187969",
+                      "indices": [
+                          0,
+                          16
+                      ],
+                      "name": "Brother Sanchez",
+                      "screen_name": "breaking2morrow"
+                  }
+              ]
+          },
+          "is_pinned": false
+      }
+  ],
+  "next_cursor": "DAABCgABGcx8UGL__-kKAAIZzG562RtxMggAAwAAAAIAAA"
+}

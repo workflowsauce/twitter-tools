@@ -1,0 +1,19 @@
+{
+  "name": "twitter-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv-safe": "^9.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/dotenv-safe": "^8.1.6"
+  }
+}

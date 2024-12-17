@@ -1,0 +1,26 @@
+I want to make a script that scrapes tweets. I need to hit:
+
+https://api.socialdata.tools/twitter/user/<username>
+
+To get the ID
+
+And then
+
+https://api.socialdata.tools/twitter/user/<userId>/tweets-and-replies[?cursor=<cursor>]
+
+To get the tweets (see example.json).
+
+It looks like it loads about 43 (might depend on the data in the tweets), as well as a 'cursor'
+
+You should write a function to fetch `count` tweets, which will call the fetch endpoint until >= the requested number of tweets are retrieved (or no more are available).
+
+fetchTweets(username, count=50): Tweet[]
+
+You should also write a main script that runs from the command line and takes in user input (`<username> <count>`, with count being optional) and invokes the function and saves the results as JSON (`<username>-<date>.json`). It should also save the results as markdown, in the following format:
+
+<username> - <date>
+<tweet_text>
+
+Include quoted tweets at the end of the tweet text, with full detail, each line prepended with >
+
+Use axios and dotenv-safe to load SOCIAL_DATA_API_KEY into env
